@@ -1,23 +1,22 @@
 ## Hi, Hope your having a Splendid day ! 👋
 # I'm Shantell
-<a href="www.linkedin.com/in/shantell-sas-smith-233b6877"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="www.linkedin.com/in/shantell-sas-smith-233b6877"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white&logoColor=fff" /></a>
 
 ## Introduction
 
-A second year masters student at the University of Maryland Global Campus (UMCG), specializing in Cyber Operations. Background in Forensic Chemistry, convoying unique Digital Forensic and analytical skills. Through coursework and independent studies inviolable fundamentals have been developed in incident response, network security, risk assessment and cloud security. 
+A second year masters student at the University of Maryland Global Campus (UMCG), specializing in Cyber Operations. Background in Forensic Chemistry, convoying unique Digital Forensic and analytical skills. Through coursework and independent studies, inviolable fundamentals have been developed in incident response, network security, risk assessment and cloud security. 
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
- The journey in cybersecurity has been driven by a desire to proactively protect and secure digital assets.
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My exposure to digital forensics while pursuing my batchelor's degree has led me to develop a passion for cybersecurity. I am now excitied to transition into this field, as a Security Operations Center (SOC) Analyst, compeled by my aspiration to proactively protect and secure digital assets.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+|Installing, Updating, and Removing Linux Software| Linux Software Management|
+|SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -58,5 +57,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
+- Linux Software Management Lab
 - Detection Lab
 - SOC Automation Project
