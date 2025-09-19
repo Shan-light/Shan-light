@@ -8,10 +8,9 @@ A second year masters student at the University of Maryland Global Campus (UMCG)
 
 ## Objective
 
-My exposure to digital forensics while pursuing my batchelor's degree has led me to develop a passion for cybersecurity. I am now excitied to transition into this field, as a Security Operations Center (SOC) Analyst, compeled by my aspiration to proactively protect and secure digital assets.
+My exposure to digital forensics while pursuing my batchelor's degree has led me to develop a passion for cybersecurity. I am now excited to transition into this field, as a Security Operations Center (SOC) Analyst, compeled by my aspiration to proactively protect and secure digital assets.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
