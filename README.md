@@ -1,5 +1,9 @@
+<div>
+<img src="https://github.com/Shan-light/Shan-light/blob/747cb5773603cab007627b15fc9ae962d9e239e7/image/shantell_smith_banner_1000x300.jpg" />
+</div>
+
 ## Hi, Hope your having a Splendid day ! 👋
-# I'm Shantell
+# I'm Shantell Smith
 <a href="www.linkedin.com/in/shantell-sas-smith-233b6877"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white&logoColor=fff" /></a>
 
 ## Introduction
@@ -26,7 +30,7 @@ My exposure to digital forensics while pursuing my batchelor's degree has led me
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-tcpdump-777BB4?&style=for-the-badge&logo=gnu&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nmap-777BB4?&style=for-the-badge&logo=nmap&logoColor=white" />
-
+</div>
 
 ### Sandboxing & Malware Analysis
 <div>
