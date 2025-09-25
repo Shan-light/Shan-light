@@ -52,24 +52,15 @@ My exposure to digital forensics while pursuing my batchelor's degree has led me
 
 ### Forensics & Incident Response
 <div>
-<a href="https://www.sleuthkit.org/autopsy/" target="_blank" rel="noopener">
   <img src="https://img.shields.io/badge/-Autopsy_SleuthKit-1679A7?&style=for-the-badge&logo=search&logoColor=white" />
- <a href="https://accessdata.com/product-download/ftk-imager-version-4-5" target="_blank" rel="noopener">
   <img src="https://img.shields.io/badge/-FTK_Imager-1679A7?&style=for-the-badge&logo=search&logoColor=white" />
-</a>
-
 </div>
 
 ## Certifications
 <div>
-<a href="https://grow.google/certificates/cybersecurity/" target="_blank" rel="noopener">
   <img src="https://img.shields.io/badge/-Google_Cybersecurity-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
-<a href="https://www.coursera.org/specializations/java-programming" target="_blank" rel="noopener">
   <img src="https://img.shields.io/badge/-Duke_Software_Engineering-07294D?&style=for-the-badge&logo=Coursera&logoColor=white" />
-<a href="https://tryhackme.com/r/p/5567747" target="_blank" rel="noopener">
   <img src="https://img.shields.io/badge/-TryHackMe_Badges-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
-</a>
-
 </div>
 
 ## Projects
