@@ -20,7 +20,7 @@ My exposure to digital forensics while pursuing my batchelor's degree has led me
 |-----------------------------------------------|----------------------------|
 |Installing, Updating, and Removing Linux Software| <a href="https://github.com/Shan-light/Linux-Software-Management-Lab">Linux Software Management</a>|
 |Network Security, Traffic Analysis and Threat Detection  | <a href="https://github.com/Shan-light/Intrusion-Detection-and-Prevention-Lab">Intrusion-Detection-and-Prevention-Lab</a>|
-
+|Bash File Management, Linux System Administration, and Nano Editing |<a href="https://github.com/Shan-light/Security-Analyst-Linux-Lab"> Security-Analyst-Linux-Lab </a>|
 
 ## Tools
 
@@ -70,3 +70,4 @@ My exposure to digital forensics while pursuing my batchelor's degree has led me
 ## Projects
 - Linux Software Management Lab
 - Detection Lab
+- Security-Analyst-Linux-Lab
