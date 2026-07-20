@@ -2,20 +2,37 @@
 <img src="https://github.com/Shan-light/Shan-light/blob/747cb5773603cab007627b15fc9ae962d9e239e7/image/shantell_smith_banner_1000x300.jpg" />
 </div>
 
-## Hi, Hope your having a Splendid day ! 👋
-# I'm Shantell Smith
+# Hi, I'm Shantell Smith👋
+
+## 🌱 Currently Learning
+
+- Google Cybersecurity Professional Certificate (Coursera)
+- CompTIA Security+
+- Cloud Security Fundamentals (AWS)
+- Security Monitoring & Incident Response
+  
 <a href="www.linkedin.com/in/shantell-sas-smith-233b6877"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white&logoColor=fff" /></a>
 
 ## Introduction
 
-A second year masters student at the University of Maryland Global Campus (UMCG), specializing in Cyber Operations. Background in Forensic Chemistry, convoying unique Digital Forensic and analytical skills. Through coursework and independent studies, inviolable fundamentals have been developed in incident response, network security, risk assessment and cloud security. 
+Welcome to my GitHub! I'm a cybersecurity professional with a Master of Science in Cyber Operations from the University of Maryland Global Campus, where I graduated with a 4.00 GPA and was recognized on the President's List. I also hold a Bachelor of Science in Forensic Chemistry, which strengthened my analytical thinking, investigative approach, and attention to detail.
+
+My academic journey and hands-on cybersecurity labs have provided practical experience in security operations, network defense, vulnerability assessment, digital forensics, secure software development, and identity and access management (IAM). I enjoy solving security challenges, learning new technologies, and continuously expanding my technical skills.
 
 ## Objective
 
-My exposure to digital forensics while pursuing my batchelor's degree has led me to develop a passion for cybersecurity. I am now excited to transition into this field, as a Security Operations Center (SOC) Analyst, compeled by my aspiration to proactively protect and secure digital assets.
+I am currently seeking an entry-level Security Operations Center (SOC) Analyst, Information Security Analyst, or Identity & Access Management (IAM) position where I can contribute to protecting enterprise environments, investigating security events, and supporting secure access to critical systems while continuing to grow as a cybersecurity professional.
 
-## Skills
+## Technical Skills
+* Security Operations: Security Monitoring, Incident Response, Threat Detection, Vulnerability Assessment
+* Security Tools: Wireshark, Nmap, Metasploit, OWASP ZAP, Gobuster, Nikto
+* Operating Systems: Windows, Linux (Ubuntu, Kali)
+* Programming: Python, PowerShell, Bash, Java
+* Cloud: AWS (S3, Route 53, CloudFront)
+* Security Concepts: Network Security, Identity & Access Management (IAM), RBAC, PKI, Secure Software Development, Digital Forensics
+* Frameworks: MITRE ATT&CK, NIST Cybersecurity Framework
 
+## Featured Projects
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 |Installing, Updating, and Removing Linux Software| <a href="https://github.com/Shan-light/Linux-Software-Management-Lab">Linux Software Management</a>|
@@ -71,3 +88,12 @@ My exposure to digital forensics while pursuing my batchelor's degree has led me
 - Linux Software Management Lab
 - Detection Lab
 - Security-Analyst-Linux-Lab
+
+## Current Goals
+
+* Complete the **Google Cybersecurity Professional Certificate** on Coursera.
+* Earn the **CompTIA Security+** certification.
+* Expand my knowledge of cloud and enterprise security.
+* Strengthen my SOC analyst skills through hands-on labs, practical projects, and continuous learning.
+* Build a portfolio of cybersecurity projects, technical write-ups, and automation scripts to demonstrate practical skills.
+* Contribute to open-source projects and engage with the cybersecurity community.
