@@ -4,6 +4,8 @@
 
 # Hi, I'm Shantell Smith👋
 
+## 🛡 Cybersecurity Professional | M.S. Cyber Operations | Secure Software Development | Security Operations
+
 ## 🌱 Currently Learning
 
 - Google Cybersecurity Professional Certificate (Coursera)
@@ -11,33 +13,70 @@
 - Cloud Security Fundamentals (AWS)
 - Security Monitoring & Incident Response
   
-<a href="www.linkedin.com/in/shantell-sas-smith-233b6877"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white&logoColor=fff" /></a>
+<a href="https://www.linkedin.com/in/shantell-sas-smith-233b6877"> <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white&logoColor=fff" /></a>
 
 ## Introduction
 
-Welcome to my GitHub! I'm a cybersecurity professional with a Master of Science in Cyber Operations from the University of Maryland Global Campus, where I graduated with a 4.00 GPA and was recognized on the President's List. I also hold a Bachelor of Science in Forensic Chemistry, which strengthened my analytical thinking, investigative approach, and attention to detail.
-
-My academic journey and hands-on cybersecurity labs have provided practical experience in security operations, network defense, vulnerability assessment, digital forensics, secure software development, and identity and access management (IAM). I enjoy solving security challenges, learning new technologies, and continuously expanding my technical skills.
+My experience combines graduate-level cybersecurity education with hands-on projects in secure software development, network security, vulnerability assessment, digital forensics, and Identity & Access Management (IAM). Through practical labs and independent projects, I have developed experience applying security frameworks, conducting security testing, and building secure applications using industry best practices.
 
 ## Objective
 
 I am currently seeking an entry-level Security Operations Center (SOC) Analyst, Information Security Analyst, or Identity & Access Management (IAM) position where I can contribute to protecting enterprise environments, investigating security events, and supporting secure access to critical systems while continuing to grow as a cybersecurity professional.
 
-## Technical Skills
-* Security Operations: Security Monitoring, Incident Response, Threat Detection, Vulnerability Assessment
-* Security Tools: Wireshark, Nmap, Metasploit, OWASP ZAP, Gobuster, Nikto
-* Operating Systems: Windows, Linux (Ubuntu, Kali)
-* Programming: Python, PowerShell, Bash, Java
-* Cloud: AWS (S3, Route 53, CloudFront)
-* Security Concepts: Network Security, Identity & Access Management (IAM), RBAC, PKI, Secure Software Development, Digital Forensics
-* Frameworks: MITRE ATT&CK, NIST Cybersecurity Framework
+## 🛠 Technical Skills
+
+### Security Operations
+- Security Monitoring
+- Incident Response
+- Threat Detection
+- Log Analysis
+- Vulnerability Assessment
+
+### Secure Software Development
+- Python
+- Flask
+- Secure Software Development Lifecycle (SSDLC)
+- Secure Coding
+- Authentication
+- Role-Based Access Control (RBAC)
+- Session Management
+- Audit Logging
+- Input Validation
+
+### Security Tools
+- Wireshark
+- Nmap
+- Metasploit
+- OWASP ZAP
+- Bandit
+- Flawfinder
+- Gobuster
+- Nikto
+
+### Cloud
+- AWS S3
+- Route 53
+- CloudFront
+
+### Operating Systems
+- Windows
+- Ubuntu
+- Kali Linux
+
+### Frameworks
+- MITRE ATT&CK
+- NIST Cybersecurity Framework
+- NIST Secure Software Development Framework (SSDF)
+- Microsoft Security Development Lifecycle (SDL)
+- OWASP Top 10
 
 ## Featured Projects
-| Skill                                         | Associated Project         |
+| Cybersecurity Skill                           | Project         |
 |-----------------------------------------------|----------------------------|
-|Installing, Updating, and Removing Linux Software| <a href="https://github.com/Shan-light/Linux-Software-Management-Lab">Linux Software Management</a>|
-|Network Security, Traffic Analysis and Threat Detection  | <a href="https://github.com/Shan-light/Intrusion-Detection-and-Prevention-Lab">Intrusion-Detection-and-Prevention-Lab</a>|
-|Bash File Management, Linux System Administration, and Nano Editing |<a href="https://github.com/Shan-light/Security-Analyst-Linux-Lab"> Security-Analyst-Linux-Lab </a>|
+|Secure Software Development (Flask, RBAC, Authentication, NIST Controls)| <a href="https://github.com/Shan-light/Secure-Flask-Industrial-Control-System-ICS-Web-Application"> Secure-Flask-Industrial-Control-System-ICS-Web-Application<a/> 
+|Network Security & IDS/IPS | <a href="https://github.com/Shan-light/Intrusion-Detection-and-Prevention-Lab">Intrusion-Detection-and-Prevention-Lab</a>|
+|Linux Administration & Bash |<a href="https://github.com/Shan-light/Security-Analyst-Linux-Lab"> Security-Analyst-Linux-Lab </a>|
+|Linux Package Management | <a href="https://github.com/Shan-light/Linux-Software-Management-Lab">Linux Software Management</a>|
 
 ## Tools
 
@@ -85,15 +124,36 @@ I am currently seeking an entry-level Security Operations Center (SOC) Analyst, 
 </div>
 
 ## Projects
+- Secure-Flask-Industrial-Control-System-ICS-Web-Application
 - Linux Software Management Lab
 - Detection Lab
 - Security-Analyst-Linux-Lab
 
-## Current Goals
+## 🎯 Current Goals
 
-* Complete the **Google Cybersecurity Professional Certificate** on Coursera.
-* Earn the **CompTIA Security+** certification.
-* Expand my knowledge of cloud and enterprise security.
-* Strengthen my SOC analyst skills through hands-on labs, practical projects, and continuous learning.
-* Build a portfolio of cybersecurity projects, technical write-ups, and automation scripts to demonstrate practical skills.
-* Contribute to open-source projects and engage with the cybersecurity community.
+- Complete the Google Cybersecurity Professional Certificate
+- Earn the CompTIA Security+ certification
+- Expand expertise in Cloud Security and Identity & Access Management
+- Build enterprise-focused cybersecurity projects
+- Continue developing Security Operations (SOC) skills
+- Contribute to open-source cybersecurity projects
+  
+## 📈 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shan-light&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shan-light&layout=compact)
+
+
+![](https://komarev.com/ghpvc/?username=Shan-light&color=blue)
+
+---
+
+> *"Security is not a product, but a continuous process."*
+
+
+## 🤝 Connect With Me
+
+- 💼 LinkedIn
+- 📧 Email
+- 🌐 GitHub Portfolio
