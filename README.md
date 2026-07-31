@@ -25,25 +25,36 @@ I am currently seeking an entry-level Security Operations Center (SOC) Analyst, 
 
 ## 🛠 Technical Skills
 
-### Security Operations
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### 🛡 Security Operations
 - Security Monitoring
 - Incident Response
 - Threat Detection
 - Log Analysis
 - Vulnerability Assessment
 
-### Secure Software Development
+### 🔐 Secure Software Development
 - Python
 - Flask
 - Secure Software Development Lifecycle (SSDLC)
-- Secure Coding
+- Secure Coding Practices
 - Authentication
 - Role-Based Access Control (RBAC)
 - Session Management
 - Audit Logging
 - Input Validation
 
-### Security Tools
+### 🌐 Cloud
+- AWS (S3, Route 53, CloudFront)
+
+</td>
+
+<td valign="top" width="50%">
+
+### 🛠 Security Tools
 - Wireshark
 - Nmap
 - Metasploit
@@ -52,23 +63,23 @@ I am currently seeking an entry-level Security Operations Center (SOC) Analyst, 
 - Flawfinder
 - Gobuster
 - Nikto
+- Splunk
 
-### Cloud
-- AWS S3
-- Route 53
-- CloudFront
-
-### Operating Systems
+### 💻 Operating Systems
 - Windows
 - Ubuntu
 - Kali Linux
 
-### Frameworks
+### 📚 Frameworks & Standards
 - MITRE ATT&CK
 - NIST Cybersecurity Framework
 - NIST Secure Software Development Framework (SSDF)
 - Microsoft Security Development Lifecycle (SDL)
 - OWASP Top 10
+
+</td>
+</tr>
+</table>
 
 ## Featured Projects
 | Cybersecurity Skill                           | Project         |
@@ -78,49 +89,90 @@ I am currently seeking an entry-level Security Operations Center (SOC) Analyst, 
 |Linux Administration & Bash |<a href="https://github.com/Shan-light/Security-Analyst-Linux-Lab"> Security-Analyst-Linux-Lab </a>|
 |Linux Package Management | <a href="https://github.com/Shan-light/Linux-Software-Management-Lab">Linux Software Management</a>|
 
-## Tools
+# 🛠 Tools & Technologies
 
-### Network and Vulnerability Scanning
+## 🌐 Network Analysis & Monitoring
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-tcpdump-777BB4?&style=for-the-badge&logo=gnu&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nmap-777BB4?&style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/-tcpdump-777BB4?style=for-the-badge&logo=gnu&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Nmap-214478?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Suricata-EF3B2D?style=for-the-badge" />
 </div>
 
-### Sandboxing & Malware Analysis
-<div>
-   <a href="https://www.virustotal.com/" target="_blank">
-  <img src="https://img.shields.io/badge/-VirusTotal-777BB4?&style=for-the-badge&logo=virustotal&logoColor=white" />
-</a>
+---
 
+## 🔍 Vulnerability Assessment & Penetration Testing
+<div>
+  <img src="https://img.shields.io/badge/-Metasploit-2596CD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-OWASP_ZAP-00549E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Nikto-8B0000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Gobuster-4B0082?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-ReconSpider-2E8B57?style=for-the-badge" />
 </div>
 
-### Threat Intelligence & Endpoint
-<div>
- <img src="https://img.shields.io/badge/-Shodan-1679A7?&style=for-the-badge&logo=shodan&logoColor=white" />
-<img src="https://img.shields.io/badge/-Censys-1679A7?&style=for-the-badge&logo=search&logoColor=white" />
+---
 
+## 🔐 Password Security
+<div>
+  <img src="https://img.shields.io/badge/-John_the_Ripper-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Hashcat-FF6600?style=for-the-badge" />
 </div>
 
-### SIEM
+---
+
+## 🛡 Secure Software Development
 <div>
-   <a href="https://letsdefend.io/" target="_blank">
-  <img src="https://img.shields.io/badge/-LetsDefend_Monitoring-777BB4?&style=for-the-badge&logo=security&logoColor=white" />
-</a>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Bandit-FCC624?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Flawfinder-006699?style=for-the-badge" />
 </div>
 
-### Forensics & Incident Response
+---
+
+## 📊 SIEM & Security Monitoring
 <div>
-  <img src="https://img.shields.io/badge/-Autopsy_SleuthKit-1679A7?&style=for-the-badge&logo=search&logoColor=white" />
-  <img src="https://img.shields.io/badge/-FTK_Imager-1679A7?&style=for-the-badge&logo=search&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Splunk-FB4F14?style=for-the-badge&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/-LetsDefend-1F2937?style=for-the-badge" />
 </div>
 
-## Certifications
+---
+
+## 🔬 Digital Forensics & Malware Analysis
 <div>
-  <img src="https://img.shields.io/badge/-Google_Cybersecurity-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Duke_Software_Engineering-07294D?&style=for-the-badge&logo=Coursera&logoColor=white" />
-  <img src="https://img.shields.io/badge/-TryHackMe_Badges-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Autopsy-2E8B57?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-FTK_Imager-0052CC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Ghidra-B22222?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white" />
+</div>
+
+---
+
+## ☁ Cloud & Infrastructure
+<div>
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/-S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Route_53-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CloudFront-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</div>
+
+---
+
+## 💻 Operating Systems
+<div>
+  <img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+</div>
+
+---
+
+## 🔑 Security Frameworks
+<div>
+  <img src="https://img.shields.io/badge/-NIST-005EA2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-MITRE_ATT%26CK-A31F34?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-OWASP_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Microsoft_SDL-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
 </div>
 
 ## Projects
