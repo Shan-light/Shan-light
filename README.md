@@ -6,12 +6,12 @@
 
 ## 🛡 Cybersecurity Professional | M.S. Cyber Operations | Secure Software Development | Security Operations
 
-## 🌱 Currently Learning
+## 🌱 Continuous Learning and Certifications
 
-- Google Cybersecurity Professional Certificate (Coursera)
-- CompTIA Security+
-- Cloud Security Fundamentals (AWS)
-- Security Monitoring & Incident Response
+- Google Cybersecurity Professional Certificate (Coursera)  — In Progress
+- CompTIA Security+  — In Progress
+- TryHackMe – Jr. SOC Analyst [Linux Fundamentals Part 3](https://tryhackme.com/room/linuxfundamentalspart3) — In Progress
+- Security Monitoring & Incident Response  — In Progress
   
 <a href="https://www.linkedin.com/in/shantell-sas-smith-233b6877"> <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white&logoColor=fff" /></a>
 
