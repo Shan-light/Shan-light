@@ -178,6 +178,7 @@ I am currently seeking an entry-level Security Operations Center (SOC) Analyst, 
 
 ## Projects
 - Secure-Flask-Industrial-Control-System-ICS-Web-Application
+- Splunk SOC Investigation
 - Linux Software Management Lab
 - Detection Lab
 - Security-Analyst-Linux-Lab
