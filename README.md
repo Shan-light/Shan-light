@@ -85,6 +85,7 @@ I am currently seeking an entry-level Security Operations Center (SOC) Analyst, 
 | Cybersecurity Skill                           | Project         |
 |-----------------------------------------------|----------------------------|
 |Secure Software Development (Flask, RBAC, Authentication, NIST Controls)| <a href="https://github.com/Shan-light/Secure-Flask-Industrial-Control-System-ICS-Web-Application"> Secure-Flask-Industrial-Control-System-ICS-Web-Application<a/> 
+|Splunk, SIEM, Log Analysis, Threat Detection, Incident Investigation, SPL | <a href="https://github.com/Shan-light/Splunk-SOC-investigation"> Splunk-SOC-investigation </a>
 |Network Security & IDS/IPS | <a href="https://github.com/Shan-light/Intrusion-Detection-and-Prevention-Lab">Intrusion-Detection-and-Prevention-Lab</a>|
 |Linux Administration & Bash |<a href="https://github.com/Shan-light/Security-Analyst-Linux-Lab"> Security-Analyst-Linux-Lab </a>|
 |Linux Package Management | <a href="https://github.com/Shan-light/Linux-Software-Management-Lab">Linux Software Management</a>|
